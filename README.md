@@ -1,4 +1,4 @@
-### hello im marty
+### hello im marty👋
 - 🌱 I’m currently learning ...python,html
 - 🤔 I’m looking for help with ...html
 - 💬 Ask me about ...im marty
