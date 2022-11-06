@@ -1,4 +1,4 @@
-### - 🔭 I’m currently working on ... nothing
+### hello im marty
 - 🌱 I’m currently learning ...python,html
 - 🤔 I’m looking for help with ...html
 - 💬 Ask me about ...im marty
